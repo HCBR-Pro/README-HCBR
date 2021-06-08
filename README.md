@@ -1,4 +1,7 @@
-# ㅤㅤㅤㅤㅤㅤ☙♛𝐇𝐂𝐁𝐑↭𝐏𝐑𝐨↭𝐌𝐀𝐍𝐃𝐀♛❧ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⇜ℂ𝕆𝕄ℙ𝔸ℕ𝕐[̲̅2̲̅0̲̅2̲̅1̲̅]⇝
+<h1 align="center">
+<p>
+ #ㅤㅤㅤㅤㅤㅤ☙♛𝐇𝐂𝐁𝐑↭𝐏𝐑𝐨↭𝐌𝐀𝐍𝐃𝐀♛❧
+ #              ⇜ℂ𝕆𝕄ℙ𝔸ℕ𝕐[̲̅2̲̅0̲̅2̲̅1̲̅]⇝
 <h1 align="center">
     <p>
         <img src= "https://i.ibb.co/61zW1bd/HCBR-PRO-LOGO-GITHUB.gif">
@@ -14,5 +17,3 @@
         <a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/badge/Strela-%E3%85%A40%E3%85%A4-blue"></a>
     </p>
 </h1>
-
-#
